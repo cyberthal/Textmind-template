@@ -10,7 +10,7 @@ This repo provides a Textmind template. You can use it to start your own Textmin
 
 Textmind requires the [[https://treefactor-docs.nfshost.com][Treefactor package]] to process the large volumes of text a human thinks daily.
 
-The installation instructions below also include my personal Spacemacs layer. It offers optional ergonomic improvements. Emacs experts can instead integrate Treefactor into their existing setup.
+The installation instructions below also include my [[https://github.com/cyberthal/spacemacs-personal][personal Spacemacs layer]]. It offers optional ergonomic improvements. Emacs experts can instead integrate Treefactor into their existing setup.
 
 You can watch video demos of Textmind at my [[https://vimeo.com/cyberthal][Vimeo channel]]. More coming soon.
 
@@ -28,8 +28,10 @@ git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 
 git clone https://github.com/cyberthal/spacemacs-personal.git ~/1-Mansort/2-Other-text/Github/Emacs/My/Personal
 
+#+begin_src 
 cd ~/1-Mansort/2-Other-text/Github/Emacs/My/Personal
 ./install-nixlike.sh
+#+end_src
 
 *** install Treefactor package manually
 
@@ -39,8 +41,10 @@ git clone https://github.com/cyberthal/treefactor.git ~/1-Mansort/2-Other-text/G
 
 Otherwise Spacemacs startup will fail with an error.
 
+#+begin_src 
 mkdir -p ~/1-Mansort/1-Textmind/1-Agenda
 mkdir -p ~/1-Mansort/1-Textmind/2-Linked
+#+end_src
 
 *** start Emacs to install new packages
 
@@ -54,8 +58,8 @@ Once installation is complete, set it back to t.
 
 *** set Hyper keybind on MS Natural Keyboard
 
-open Karabiner Elements
-Bind appkey to fn
+1. open Karabiner Elements
+2. Bind appkey to fn
 
 (Keybind won't work through Synergy.)
 
