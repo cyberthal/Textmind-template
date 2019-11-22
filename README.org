@@ -71,4 +71,4 @@ rm -rf ~/1-Mansort/1-Textmind
 
 **** clone the repo 
 
-git clone git@ssh.gitgud.io:Bibliodemos/textmind-template.git ~/1-Mansort/1-Textmind
+git clone https://gitgud.io/Bibliodemos/textmind-template.git ~/1-Mansort/1-Textmind
