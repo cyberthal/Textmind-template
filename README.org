@@ -2,21 +2,23 @@
 
 ** Overview
 
-Textmind is a way of using Emacs to organize your prose, as GTD is a way of using paper to organize your life.
+Textmind uses Emacs to organize your prose, as GTD uses paper to organize your life.
 
-Textmind is meant to be a Git monorepo containing the user's primary text exobrain.
+Textmind is a Git repo holding the user's primary text exobrain.
 
-This repo provides a Textmind template. You can use it to start your own Textmind instance.
+This Git repo is a Textmind template. Use it to start your own Textmind.
 
-Textmind requires the [[https://treefactor-docs.nfshost.com][Treefactor package]] to process the large volumes of text a human thinks daily.
+Textmind needs the [[https://treefactor-docs.nfshost.com][Treefactor]] Emacs package to process the text thoughts a man thinks daily.
 
-The installation instructions below also include my [[https://github.com/cyberthal/spacemacs-personal][personal Spacemacs layer]]. It offers optional ergonomic improvements. Emacs experts can instead integrate Treefactor into their existing setup.
+These installation instructions add my [[https://github.com/cyberthal/spacemacs-personal][personal Spacemacs layer]], which offers optional ergonomic improvements. Emacs experts may instead integrate Treefactor into their existing setup, and take what they like from my personal layer.
 
-You can watch video demos of Textmind at my [[https://vimeo.com/cyberthal][Vimeo channel]]. More coming soon.
+Watch demo videos of Textmind on [[https://vimeo.com/cyberthal][Vimeo]].
 
-I will build a [[https://gitgud.io/Bibliodemos/textmind-my][public Textmind instance]] to show how Textmind organizes your life.
+Here is a [[https://gitgud.io/Bibliodemos/textmind-my][demo Textmind instance]]. It shows how Textmind can organize your life.
 
-Updated: [2019-11-22]
+Visit my [[https://discord.gg/bteSuV][Discord server]] to chat.
+
+Updated: [2019-11-25]
 
 ** Installation steps
 
