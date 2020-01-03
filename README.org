@@ -10,13 +10,9 @@ This Git repo is a Textmind template. Use it to start your own Textmind.
 
 Textmind needs the [[https://treefactor-docs.nfshost.com][Treefactor]] Emacs package to process the text thoughts one thinks daily.
 
-These installation instructions add my [[https://github.com/cyberthal/spacemacs-personal][personal Spacemacs layer]], which offers optional ergonomic improvements. Emacs experts may instead integrate Treefactor into their existing setup, and take what they like from my personal layer.
+The below installation instructions add my [[https://github.com/cyberthal/spacemacs-personal][personal Spacemacs layer]], which offers optional ergonomic improvements. Emacs experts may instead integrate Treefactor into their existing setup, and take what they like from my personal layer.
 
-Watch demo videos of Textmind on [[https://vimeo.com/cyberthal][Vimeo]].
-
-Here is a [[https://gitgud.io/Bibliodemos/textmind-my][demo Textmind instance]]. It shows how Textmind can organize your life.
-
-Follow the [[https://bibliodemos-ghost.nfshost.com][Bibliodemos rough drafts blog]] to see work in progress.
+To learn more, read the [[https://bibliodemos-docs.nfshost.com][documentation]] for the Textmind demo.
 
 Updated: [2020-01-03]
 
