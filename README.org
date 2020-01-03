@@ -16,9 +16,9 @@ Watch demo videos of Textmind on [[https://vimeo.com/cyberthal][Vimeo]].
 
 Here is a [[https://gitgud.io/Bibliodemos/textmind-my][demo Textmind instance]]. It shows how Textmind can organize your life.
 
-Visit my [[https://discord.gg/bteSuV][Discord server]] to chat.
+Follow the [[https://demopublius-ghost.nfshost.com][Demopublius rough drafts blog]] to see work in progress.
 
-Updated: [2019-11-25]
+Updated: [2020-01-03]
 
 ** Installation steps
 
