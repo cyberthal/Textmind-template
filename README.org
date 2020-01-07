@@ -18,49 +18,6 @@ Updated: [2020-01-03]
 
 ** Installation steps
 
-*** install Spacemacs
-
-git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
-
-*** install my Spacemacs personal layer
-
-git clone https://github.com/cyberthal/spacemacs-personal.git ~/1-Mansort/2-Other-text/Github/Emacs/My/Personal
-
-#+begin_src 
-cd ~/1-Mansort/2-Other-text/Github/Emacs/My/Personal
-./install-nixlike.sh
-#+end_src
-
-*** install Treefactor package manually
-
-git clone https://github.com/cyberthal/treefactor.git ~/1-Mansort/2-Other-text/Github/Emacs/My/Treefactor/Prod
-
-*** create Textmind directories expected by my personal Spacemacs layer
-
-Otherwise Spacemacs startup will fail with an error.
-
-#+begin_src 
-mkdir -p ~/1-Mansort/1-Textmind/1-Agenda
-mkdir -p ~/1-Mansort/1-Textmind/2-Linked
-#+end_src
-
-*** start Emacs to install new packages
-
-**** If installation of many new packages fails, then:
-
-edit init.el in my personal spacemacs layer so that
-(setq package-check-signature nil)
-instead of t
-
-Once installation is complete, set it back to t.
-
-*** set Hyper keybind on MS Natural Keyboard
-
-1. open Karabiner Elements
-2. Bind appkey to fn
-
-(Keybind won't work through Synergy.)
-
 *** clone Textmind template repo
 
 **** remove any pre-existing files
