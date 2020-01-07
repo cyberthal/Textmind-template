@@ -18,7 +18,9 @@ Updated: [2020-01-03]
 
 ** Installation steps
 
-*** clone Textmind template repo
+*** Install [[https://github.com/cyberthal/spacemacs-personal][my Spacemacs personal layer]]
+
+*** Clone Textmind template repo
 
 **** remove any pre-existing files
 
