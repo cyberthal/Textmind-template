@@ -1,2 +1,7 @@
-* Dashboard
-** /
+* dashboard
+** @kbd
+** @home
+** @work
+** @Alice
+** @outing
+** @time
