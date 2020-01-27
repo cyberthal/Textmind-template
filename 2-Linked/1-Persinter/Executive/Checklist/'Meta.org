@@ -3,23 +3,22 @@
 :ID:       F377F243-36FA-45A4-9786-27D11F4679CA
 :END:
 
-Decides what to do next
+- [ ] (org-reset-checkbox-state-subtree)
 
 ** Daily
 :PROPERTIES:
 :ID:       27EAE5C4-7445-4C47-8FD6-8FE572AC92D2
 :END:
 
-- [X] (leo-checklist-to-not-done)
-- [X] turn on phone connectivity
-- [X] scan for critical urgent
-  - [X] (leo-refresh-org-agenda)
-  - [X] org calendar
-  - [X] org tasks
-- [X] add 48-hour calendar entries
-  - [X] '3dashboard | ** @time | [next appointment time]
-  - [X] Google Calendar
-- [X] [[id:41abc95a-de60-4b95-bc17-1ee31030a7b4][Daily sequence checklist v1.0.0]]
+- [ ] turn on phone connectivity
+- [ ] scan for critical urgent
+  - [ ] (treefactor-refresh-org-search-scope)
+  - [ ] org calendar
+  - [ ] org tasks
+- [ ] add 48-hour calendar entries
+  - [ ] '3dashboard | ** @time | [next appointment time]
+  - [ ] Google Calendar
+- [ ] [[id:41abc95a-de60-4b95-bc17-1ee31030a7b4][Daily sequence checklist v1.0.0]]
 
 ** Task switching
 :PROPERTIES:
@@ -30,11 +29,11 @@ Decides what to do next
 :ID:       a7d4443d-87fb-4e5b-b215-f38667527381
 :END:
 
-- [X] urgency orientation check
-  - [X] calendar
-  - [X] '3dashboard
-  - [X] todo list
-  - [X] free think
+- [ ] urgency orientation check
+  - [ ] calendar
+  - [ ] '3dashboard
+  - [ ] todo list
+  - [ ] free think
 
 *** proc sprinted
 :PROPERTIES:
@@ -47,29 +46,28 @@ Decides what to do next
 :END:
 
 (find-file "~/1-mansort/1-Textmind/2-Linked/8-Hud/")
-- [X] proc sprinted & reorient
-  - [X] (leo-checklist-to-not-done)
-  - [X] (leo-create-new-sprinting)
-  - [X] (leo-double-file-prior-sprinting)
-  - [X] deletion
-  - [X] headingfy
-  - [X] lazy
-  - [X] promote
-  - [X] file
-- [X] file to depth=1
-  - [X] 7-notes
-  - [X] 6-action
-  - [X] 5-location
-  - [X] 4-object
-  - [X] 3-Names
-  - [X] 2-Time
-  - [X] 1-persinter
-  - [X] 1-Textmind
-- [X] sort tasks
-  - [X] file agenda files to taste
-  - [X] (leo-refresh-org-agenda)
-  - [X] rank #5 tasks (search org agenda for #5's)
-  - [X] consolidate remaining #5 tasks
+- [ ] proc sprinted & reorient
+  - [ ] (org-reset-checkbox-state-subtree)
+  - [ ] (leo-create-new-sprinting)
+  - [ ] deletion
+  - [ ] headingfy
+  - [ ] lazy
+  - [ ] promote
+  - [ ] file
+- [ ] file to depth=1
+  - [ ] 7-notes
+  - [ ] 6-action
+  - [ ] 5-location
+  - [ ] 4-object
+  - [ ] 3-Names
+  - [ ] 2-Time
+  - [ ] 1-persinter
+  - [ ] 1-Textmind
+- [ ] sort tasks
+  - [ ] file agenda files to taste
+  - [ ] (treefactor-refresh-org-search-scope)
+  - [ ] rank #5 tasks (search org agenda for #5's)
+  - [ ] consolidate remaining #5 tasks
 
 *** execute task
 :PROPERTIES:
@@ -77,7 +75,7 @@ Decides what to do next
 :END:
 
 - [ ] pick a task and do it
-  - [ ] (leo-refresh-org-agenda)
+  - [ ] (treefactor-refresh-org-search-scope)
   - [ ] select task serially from top
   - [ ] ensure task is properly brainstormed, decomposed and scoped
   - [ ] sort to it serially
