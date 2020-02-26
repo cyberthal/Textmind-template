@@ -1,0 +1,21 @@
+*** Inbox.org
+:PROPERTIES:
+:VISIBILITY: children
+:END:
+
+**** TODO [#1] Textmind | template | error | fix
+
+error in template:
+'1Sprinting S shouldn't be capitalized
+fix it
+[2020-01-23 Thu 07:21]
+
+**** TODO [#1] fix meta checklist template
+
+meta checklist:
+- [ ] (org-reset-checkbox-state-subtree)
+needs to go inside the tree.
+check template.
+remove obsolete
+  - [ ] (leo-checklist-to-not-done)
+[2020-02-07 Fri 09:49]
