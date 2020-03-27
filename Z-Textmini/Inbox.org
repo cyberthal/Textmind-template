@@ -22,3 +22,8 @@ remove obsolete
 
 **** TODO clean up textmini dir. move it to a dev branch.
 **** TODO resequence '3dashboard @foo on textmind-template for cascade.
+
+**** TODO [#1] fix template '2sprinting
+
+looks like bibliodemos' '2sprinted is misnamed '2sprinting. check the template and fix.
+[2020-02-26 Wed 21:05]
