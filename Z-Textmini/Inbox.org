@@ -19,3 +19,6 @@ check template.
 remove obsolete
   - [ ] (leo-checklist-to-not-done)
 [2020-02-07 Fri 09:49]
+
+**** TODO clean up textmini dir. move it to a dev branch.
+**** TODO resequence '3dashboard @foo on textmind-template for cascade.
