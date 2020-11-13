@@ -1,6 +1,7 @@
 * Meta checklist
 
 - [ ] (org-reset-checkbox-state-subtree)
+# Run the above with C-x C-e eval-last-sexp
 
 ** Daily
 
@@ -11,6 +12,7 @@
   - [ ] org tasks
 - [ ] add 48-hour calendar entries
   - [ ] '3dashboard | ** @time | [next appointment time]
+# The above means to add today's appointment times to the dashboard
   - [ ] Google Calendar
 - [ ] Daily sequence checklist
 
@@ -33,21 +35,18 @@
   - [ ] (org-reset-checkbox-state-subtree)
   - [ ] (treefactor-create-new-sprinting)
   - [ ] deletion
+# I do this from bottom of buffer up.
   - [ ] headingfy
+# from top of buffer down
   - [ ] lazy
+# top down
   - [ ] promote
+# top down
   - [ ] file
-- [ ] file to depth=1
-  - [ ] 7-notes
-  - [ ] 6-action
-  - [ ] 5-location
-  - [ ] 4-object
-  - [ ] 3-Names
-  - [ ] 2-Time
-  - [ ] 1-persinter
-  - [ ] 1-Textmind
+  - [ ] file to depth=1
+# I do this from numerically highest 10 Bin to lowest.
 - [ ] sort tasks
-  - [ ] file agenda files to taste
+  - [ ] file =1-agenda= files to taste
   - [ ] (treefactor-refresh-org-search-scope)
   - [ ] rank #5 tasks (search org agenda for #5's)
   - [ ] consolidate remaining #5 tasks
