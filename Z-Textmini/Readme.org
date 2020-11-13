@@ -1,0 +1,7 @@
+This is my personal Textmini.  It controls the evolution of this Textmind template repo.
+
+I actually do my work here.  If the directory is empty, that means I'm caught up, at least with this part of my info pipeline.
+
+You should delete this directory from your Textmind.  It's just an example of a Textmini, which you can use in your own satellite repos.
+
+Normally I prefix Textmini with =1-Textmini=, but that spot was already taken here.

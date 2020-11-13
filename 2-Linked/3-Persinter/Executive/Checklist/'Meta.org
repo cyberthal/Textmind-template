@@ -1,0 +1,66 @@
+* Meta checklist
+
+- [ ] (org-reset-checkbox-state-subtree)
+
+** Daily
+
+- [ ] turn on phone connectivity
+- [ ] scan for critical urgent
+  - [ ] (treefactor-refresh-org-search-scope)
+  - [ ] org calendar
+  - [ ] org tasks
+- [ ] add 48-hour calendar entries
+  - [ ] '3dashboard | ** @time | [next appointment time]
+  - [ ] Google Calendar
+- [ ] Daily sequence checklist
+
+** Task switching
+
+*** urgency
+
+- [ ] urgency orientation check
+  - [ ] calendar
+  - [ ] '3dashboard
+  - [ ] todo list
+  - [ ] free think
+
+*** proc sprinted
+
+**** Textmind
+
+(find-file "~/1-mansort/1-Textmind/2-Linked/Hud/")
+- [ ] proc sprinted & reorient
+  - [ ] (org-reset-checkbox-state-subtree)
+  - [ ] (treefactor-create-new-sprinting)
+  - [ ] deletion
+  - [ ] headingfy
+  - [ ] lazy
+  - [ ] promote
+  - [ ] file
+- [ ] file to depth=1
+  - [ ] 7-notes
+  - [ ] 6-action
+  - [ ] 5-location
+  - [ ] 4-object
+  - [ ] 3-Names
+  - [ ] 2-Time
+  - [ ] 1-persinter
+  - [ ] 1-Textmind
+- [ ] sort tasks
+  - [ ] file agenda files to taste
+  - [ ] (treefactor-refresh-org-search-scope)
+  - [ ] rank #5 tasks (search org agenda for #5's)
+  - [ ] consolidate remaining #5 tasks
+
+*** execute task
+:PROPERTIES:
+:ID:       ba12dd4a-d963-4006-902a-93b7a98324f8
+:END:
+
+- [ ] pick a task and do it
+  - [ ] (treefactor-refresh-org-search-scope)
+  - [ ] select task serially from top
+  - [ ] ensure task is properly brainstormed, decomposed and scoped
+  - [ ] sort to it serially
+  - [ ] plan in '3dashboard
+  - [ ] execute in '1ramblog

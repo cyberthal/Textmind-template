@@ -1,8 +1,0 @@
-#+STARTUP: overview
-* /Scratch Inbox for Completed Sprints
-** dupe and split
-:PROPERTIES:
-:VISIBILITY: children
-:END:
-*** Log copies: send to /time/source
-*** Work copies: send up with H-g

@@ -1,0 +1,7 @@
+* Not searched
+
+=3-Non= is a directory that Org doesn't search when looking for matches to a link.  You can add as much text as you want to it, without slowing normal Org operations.
+
+You can still search it with other tools, such as grep.
+
+This is a good place for archives, junk and miscellany.

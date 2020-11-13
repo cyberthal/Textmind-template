@@ -6,7 +6,7 @@ This Git repo is a Textmind template. Use it to start your own Textmind.
 
 To learn more, read the Textmind [[https://cyberthal-docs.nfshost.com/textmind/][documentation]].
 
-Updated: [2020-01-10]
+Updated: [2020-11-13]
 
 ** Installation steps
 
