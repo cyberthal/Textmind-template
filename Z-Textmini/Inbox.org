@@ -1,0 +1,25 @@
+*** Inbox.org
+:PROPERTIES:
+:VISIBILITY: children
+:END:
+
+**** Textmind | tree | structure | my accounts
+
+~/1-Mansort/1-Textmind/2-Linked/7-Name/2-flat/2-Me/1-Key-data/Accounts
+1-Hardware
+2-Geo
+3-Name
+4-Type
+Zinks
+
+Cascade rule applied.
+[2020-06-13 Sat 18:14]
+
+**** 10 Bins | directory structure | update | /2-Linked/9-Background/Library-publishing
+
+Textmind directory structure update:
+/2-Linked/9-Background/
+Library
+to
+Library-publishing
+[2020-05-20 Wed 20:26]
