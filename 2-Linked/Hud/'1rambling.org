@@ -2,10 +2,11 @@
 
 * Rambling [2020-11-13 Fri 15:49]
 
-** get template
+This is some sample text.
 
-downloaded the template.
-looks good!
+** organize socks
+
+too many black, not enough whites
 [2020-11-13 Fri 20:11]
 
 ** make more sample text

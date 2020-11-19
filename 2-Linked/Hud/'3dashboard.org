@@ -1,9 +1,9 @@
-* dashboard
+* '3dashboard
 ** @work
 *** frobnicate the pollywogs
 **** catch pollywogs from office tank
 
-borrow sally's net
+borrow net
 get jar from store room
 
 **** attach genetic refrogulator to fusion capacitator

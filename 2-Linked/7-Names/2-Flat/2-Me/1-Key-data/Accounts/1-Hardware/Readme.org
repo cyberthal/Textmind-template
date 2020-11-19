@@ -1,0 +1,3 @@
+Accounts linked to specific hardware.
+
+For example, a mobile or tablet PIN is hardware-specific.

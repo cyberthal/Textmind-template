@@ -1,0 +1,1 @@
+Accounts linked to specific geography, such as phone numbers in multiple countries.
